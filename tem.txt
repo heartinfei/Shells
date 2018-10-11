@@ -1,0 +1,35 @@
+bind
+bind_best
+bind_wangqiang
+expr_demo.sh
+fun_test.sh
+hello.sh
+hello_arg.sh
+include_demo.sh
+login
+print_demo.sh
+read_demo.sh
+ssserver
+tem.txt
+test
+test_demo.sh
+url_demo.sh
+.
+├── bind
+├── bind_best
+├── bind_wangqiang
+├── expr_demo.sh
+├── fun_test.sh
+├── hello.sh
+├── hello_arg.sh
+├── include_demo.sh
+├── login
+├── print_demo.sh
+├── read_demo.sh
+├── ssserver
+├── tem.txt
+├── test
+├── test_demo.sh
+└── url_demo.sh
+
+0 directories, 16 files

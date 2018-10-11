@@ -1,0 +1,10 @@
+#!/bin/bash
+
+read -p "Input num:" num
+
+if[[$num=~^[0-9]*$]] then
+echo "User name is:$num"
+else
+echo "Not number"
+fi
+exit 1
